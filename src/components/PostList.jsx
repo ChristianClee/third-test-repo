@@ -3,6 +3,7 @@ import PostItem from "./PostItem"
 
 
 function PostList({ posts, title }) {
+    // creates list of posts
     return (
         <div>
             <h2 style={{ textAlign: "center" }}>{title}</h2>

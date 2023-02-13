@@ -2,7 +2,7 @@ import React from 'react';
 
 
 function PostItem({ post }) {
-    // console.log(post)
+    // creates an element 
     return (
         <div className="posts">
             <div className="posts__body">
